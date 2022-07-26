@@ -7,5 +7,7 @@
   { "skill": "unit test", "estimation": 6 },
   { "skill": "mobx", "estimation": 12 },
   { "skill": "styled components", "estimation": 5 },
-  { "skill": "oauth2", "estimation": 8 }
+  { "skill": "oauth2", "estimation": 8 },
+  { "skill": "typescript", "estimation": 12 },
+  { "skill": "redux-saga", "estimation": 12 }
 ]
