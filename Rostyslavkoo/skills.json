@@ -1,0 +1,10 @@
+[
+	{ "skill": "typeScript", "estimation": 10 },
+	{ "skill": "redux redux-toolkit", "estimation": 5 },
+	{ "skill": "algorithms", "estimation": 12 },
+	{ "skill": "nextJS", "estimation": 10 },
+	{ "skill": "docker", "estimation": 4 },
+	{ "skill": "REST API", "estimation": 4 },
+	{ "skill": "SOLID", "estimation": 10 },
+	{ "skill": "OOP", "estimation": 3 }
+]

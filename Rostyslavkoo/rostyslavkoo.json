@@ -1,0 +1,70 @@
+[
+	{
+		"company": "OmiSoft",
+		"vacancyLink": "https://jobs.dou.ua/companies/omisoft/vacancies/211317/",
+		"missingKnowledge": [
+			"no experience with REST API",
+			"work experience only 1 year"
+		],
+		"status": false,
+		"lastUpdate": "26 Jul 2022"
+	},
+	{
+		"company": "MintyMint",
+		"vacancyLink": "https://jobs.dou.ua/companies/mintymint/vacancies/214231/",
+		"missingKnowledge": [
+			"Experience integrating conversion tracking pixels (Google analytics)",
+			"English B1"
+		],
+		"status": false,
+		"lastUpdate": "26 Jul 2022"
+	},
+	{
+		"company": "Squro",
+		"vacancyLink": "https://jobs.dou.ua/companies/squro/vacancies/214213/",
+		"missingKnowledge": [],
+		"status": true,
+		"lastUpdate": "26 Jul 2022"
+	},
+	{
+		"company": "Siren Group",
+		"vacancyLink": "https://jobs.dou.ua/companies/siren-group/vacancies/197151/",
+		"missingKnowledge": [
+			"OOP, SOLID",
+			"LESS",
+			"WS , REST",
+			"A very good level of English, at least Upper-Intermediate.",
+			" Fluent Russian is essential."
+		],
+		"status": false,
+		"lastUpdate": "26 Jul 2022"
+	},
+	{
+		"company": "StartupSoft",
+		"vacancyLink": "https://jobs.dou.ua/companies/startup-soft/vacancies/214123/",
+		"missingKnowledge": ["Python"],
+		"status": false,
+		"lastUpdate": "26 Jul 2022"
+	},
+	{
+		"company": "InventorSoft",
+		"vacancyLink": "https://jobs.dou.ua/companies/inventorsoft/vacancies/214118/",
+		"missingKnowledge": ["2+ years experience REACT"],
+		"status": false,
+		"lastUpdate": "26 Jul 2022"
+	},
+	{
+		"company": "Binerals",
+		"vacancyLink": "https://jobs.dou.ua/companies/binerals/vacancies/211341/",
+		"missingKnowledge": ["2+ years experience using ReactJs,Understanding of principles and experience with REST API, GraphQL, WebSocket,Experience with Linux/Unix (shell),Intermediate English or higher,Experience with NextJS"],
+		"status": false,
+		"lastUpdate": "26 Jul 2022"
+	},
+	{
+		"company": "Qualium Systems",
+		"vacancyLink": "https://jobs.dou.ua/companies/qualium-systems/vacancies/213992/",
+		"missingKnowledge": ["Experience of work with Three.js,To be familiar with WebGL, WebXR, CameraAPI;"],
+		"status": false,
+		"lastUpdate": "26 Jul 2022"
+	}
+]
