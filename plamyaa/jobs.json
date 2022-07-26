@@ -1,0 +1,177 @@
+[
+	{
+		"company" : "LLC Лидгид",
+		"vacancyLink" : "https://hh.ru/vacancy/66871264?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : ["Vue.js", "Gulp" ],
+		"status": "Resume has not been viewed",
+		"lastUpadte" : "21.07.2022"
+	},
+	{
+		"company" : "418 Digital Team",
+		"vacancyLink" : "https://hh.ru/vacancy/67298377?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : ["JWT"],
+		"status": "Resume has not been viewed",
+		"lastUpadte" : "21.07.2022"
+	},
+	{
+		"company" : "AppEvent",
+		"vacancyLink" : "https://hh.ru/vacancy/67304300?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : ["Patterns"],
+		"status": "Resume viewed",
+		"lastUpadte" : "21.07.2022"
+	},
+	{
+		"company" : "IE Богач Евгений Александрович",
+		"vacancyLink" : "https://hh.ru/vacancy/68025155?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : [],
+		"status": "Resume has not been viewed",
+		"lastUpadte" : "21.07.2022"
+	},
+	{
+		"company" : "Coin32",
+		"vacancyLink" : "https://hh.ru/vacancy/67997328?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : [],
+		"status": "Resume has not been viewed",
+		"lastUpadte" : "21.07.2022"
+	},
+	{
+		"company" : "Смартек",
+		"vacancyLink" : "https://hh.ru/vacancy/66549441?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : ["Rest or GraphQL"],
+		"status": "Resume has not been viewed",
+		"lastUpadte" : "21.07.2022"
+	},
+	{
+		"company" : "GrapeCity Inc.",
+		"vacancyLink" : "https://hh.ru/vacancy/66822218?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : ["TDD"],
+		"status": "Resume has not been viewed",
+		"lastUpadte" : "21.07.2022"
+	},
+	{
+		"company" : "Девять Линий",
+		"vacancyLink" : "https://hh.ru/vacancy/67881791?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : ["Saga", "Next.js", "Storybook"],
+		"status": "Denial",
+		"lastUpadte" : "22.07.2022"
+	},
+	{
+		"company" : "OneTwoTrip",
+		"vacancyLink" : "https://hh.ru/vacancy/55067974?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : [],
+		"status": "Resume has not been viewed",
+		"lastUpadte" : "22.07.2022"
+	},
+	{
+		"company" : "Finch",
+		"vacancyLink" : "https://hh.ru/vacancy/66699121?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : ["SPA, Node.js and Express"],
+		"status": "Denial",
+		"lastUpadte" : "22.07.2022"
+	},
+	{
+		"company" : "Start Mobile",
+		"vacancyLink" : "https://hh.ru/vacancy/55302941?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : [],
+		"status": "Resume viewed",
+		"lastUpadte" : "22.07.2022"
+	},
+	{
+		"company" : "LLC Зорра",
+		"vacancyLink" : "https://hh.ru/vacancy/55900657?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : ["Rest", "Agile Scrum"],
+		"status": "Denial",
+		"lastUpadte" : "22.07.2022"
+	},
+	{
+		"company" : "Группа Самолет",
+		"vacancyLink" : "https://kirov.hh.ru/vacancy/67369152?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : ["MobX"],
+		"status": "Denial",
+		"lastUpadte" : "22.07.2022"
+	},
+	{
+		"company" : "Группа Компаний «Аскона» | Офис",
+		"vacancyLink" : "https://kirov.hh.ru/vacancy/68074681?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : ["Rest"],
+		"status": "Resume has not been viewed",
+		"lastUpadte" : "22.07.2022"
+	},
+	{
+		"company" : "IE Котельникова Анна Михайловна",
+		"vacancyLink" : "https://kirov.hh.ru/vacancy/67069190?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : ["Jest"],
+		"status": "Invitation",
+		"lastUpadte" : "24.07.2022"
+	},
+	{
+		"company" : "42Clouds",
+		"vacancyLink" : "https://kirov.hh.ru/vacancy/67649113?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : ["React Native", "MobX", ".net6"],
+		"status": "Denial",
+		"lastUpadte" : "25.07.2022"
+	},
+	{
+		"company" : "LLC Профсофт",
+		"vacancyLink" : "https://kirov.hh.ru/vacancy/67994993?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : ["Rest", "Jest", "Node.js", "Next.js"],
+		"status": "Resume viewed",
+		"lastUpadte" : "25.07.2022"
+	},
+	{
+		"company" : "Сектор Бизнеса",
+		"vacancyLink" : "https://kirov.hh.ru/vacancy/67983936?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : ["Vue.js"],
+		"status": "Denial",
+		"lastUpadte" : "26.07.2022"
+	},
+	{
+		"company" : "WelbeX",
+		"vacancyLink" : "https://hh.ru/vacancy/67658294?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : ["Swift", "Java", "Node.js"],
+		"status": "Resume has not been viewed",
+		"lastUpadte" : "26.07.2022"
+	},
+	{
+		"company" : "Маркетинг Солюшнз",
+		"vacancyLink" : "https://kirov.hh.ru/vacancy/68104526?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : ["Gulp", "Node.js", "Cordova", "MVC", "Rest"],
+		"status": "Resume has not been viewed",
+		"lastUpadte" : "26.07.2022"
+	},
+	{
+		"company" : "Own Script",
+		"vacancyLink" : "https://kirov.hh.ru/vacancy/67923456?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : ["MobX"],
+		"status": "Resume has not been viewed" ,
+		"lastUpadte" : "26.07.2022"
+	},
+	{
+		"company" : "Netris",
+		"vacancyLink" : "https://kirov.hh.ru/vacancy/68058420?from=negotiations_item&hhtmFrom=negotiations_item",
+		"missingKnowledge" : [],
+		"status": "Denial",
+		"lastUpadte" : "26.07.2022"
+	},
+	{
+		"company" : "Газпромбанк",
+		"vacancyLink" : "https://hh.ru/vacancy/68137316?from=vacancy_search_list&hhtmFrom=vacancy_search_list",
+		"missingKnowledge" : ["Rest"],
+		"status": "Resume has not been viewed",
+		"lastUpadte" : "26.07.2022"
+	},
+	{
+		"company" : "IE Богач Евгений Александрович",
+		"vacancyLink" : "https://hh.ru/vacancy/68155211?from=vacancy_search_list&hhtmFrom=vacancy_search_list",
+		"missingKnowledge" : ["Node.js"],
+		"status": "Resume has not been viewed",
+		"lastUpadte" : "26.07.2022"
+	},
+	{
+		"company" : "OUTSIDE DIGITAL",
+		"vacancyLink" : "https://hh.ru/vacancy/68151730?from=vacancy_search_list&hhtmFrom=vacancy_search_list",
+		"missingKnowledge" : ["Next.js"],
+		"status": "Resume has not been viewed",
+		"lastUpadte" : "26.07.2022"
+	}
+]

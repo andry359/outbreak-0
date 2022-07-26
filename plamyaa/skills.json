@@ -1,0 +1,22 @@
+[
+    {
+        "skill" : "Rest",
+        "estimation" : 6
+    },
+    {
+        "skill" : "Node.js",
+        "estimation" : 5
+    },
+    {
+        "skill" : "MobX",
+        "estimation" : 3
+    },
+    {
+        "skill" : "Next.js",
+        "estimation" : 3
+    },
+    {
+        "skill" : "Jest",
+        "estimation": 2
+    }
+]
