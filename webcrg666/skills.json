@@ -1,0 +1,11 @@
+[
+  { "skill": "jira", "estimation": 4 },
+  { "skill": "next", "estimation": 48 },
+  { "skill": "git", "estimation": 12 },
+  { "skill": "webpack", "estimation": 8 },
+  { "skill": "bem", "estimation": 6 },
+  { "skill": "unit test", "estimation": 6 },
+  { "skill": "mobx", "estimation": 12 },
+  { "skill": "styled components", "estimation": 5 },
+  { "skill": "oauth2", "estimation": 8 }
+]
