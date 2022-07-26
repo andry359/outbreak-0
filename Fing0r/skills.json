@@ -1,0 +1,34 @@
+[
+  {
+    "skill": "TypeScript",
+    "estimation": 11
+  },
+  {
+    "skill": "mobx",
+    "estimation": 11
+  },
+  {
+    "skill": "Docker",
+    "estimation": 14
+  },
+  {
+    "skill": "Webpack",
+    "estimation": 9
+  },
+  {
+    "skill": "Next",
+    "estimation": 26
+  },
+  {
+    "skill": "REST API",
+    "estimation": 4
+  },
+  {
+    "skill": "GraphQL",
+    "estimation": 12
+  },
+  {
+    "skill": "Redux-Saga",
+    "estimation": 11
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "company": "Pyrobyte",
+    "vacancyLink": "https://hh.ru/vacancy/68113494?from=employer&hhtmFrom=employer",
+    "missingKnowledge": "Mobx, Webpack, Docker",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "ООО БОЛЬШАЯ СТРАНА",
+    "vacancyLink": "https://hh.ru/vacancy/67583432?from=employer&hhtmFrom=employer",
+    "missingKnowledge": "",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "ООО Академия Бизнес Решений",
+    "vacancyLink": "https://hh.ru/vacancy/67561800?from=employer&hhtmFrom=employer",
+    "missingKnowledge": "underscore, reflow, repaint, Умение настраивать шаблоны CMS",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "418 Digital Team",
+    "vacancyLink": "https://hh.ru/vacancy/67298377?from=vacancy_search_list&hhtmFrom=vacancy_search_list",
+    "missingKnowledge": "Next",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "ООО Дэвэлопин",
+    "vacancyLink": "https://hh.ru/vacancy/67765311?from=employer&hhtmFrom=employer",
+    "missingKnowledge": "Вести разработку с использованием Docker контейнеров, работать с системами CI/CD;\n\n",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "ООО Свик",
+    "vacancyLink": "https://hh.ru/vacancy/36361480?from=vacancy_search_list&hhtmFrom=vacancy_search_list",
+    "missingKnowledge": "",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "ООО АйТи Мегастар",
+    "vacancyLink": "https://hh.ru/vacancy/50966595?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=React",
+    "missingKnowledge": "",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "Европейская Юридическая Служба, Компания\n",
+    "vacancyLink": "https://hh.ru/vacancy/67802140?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=React",
+    "missingKnowledge": "",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "AppEvent\n",
+    "vacancyLink": "https://hh.ru/vacancy/67304300?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=React",
+    "missingKnowledge": "Webpack, Паттерны проектирования",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "42Clouds\n",
+    "vacancyLink": "https://hh.ru/vacancy/67649113?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=React",
+    "missingKnowledge": "",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "ITooLabs",
+    "vacancyLink": "https://hh.ru/vacancy/67696081?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=React%20js",
+    "missingKnowledge": "",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "Маркетинг Солюшнз",
+    "vacancyLink": "https://hh.ru/vacancy/68104526?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=React%20js",
+    "missingKnowledge": "React native, node.js, cordova, Webpack",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "Смартек",
+    "vacancyLink": "https://hh.ru/vacancy/66549272?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=React%20js",
+    "missingKnowledge": "",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "SMENA",
+    "vacancyLink": "https://hh.ru/vacancy/67552911?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=React%20js",
+    "missingKnowledge": "AntDesign, ApolloClient 2.0, Github Actions, Знание основ graphql",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "KITE",
+    "vacancyLink": "https://hh.ru/vacancy/55308949?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=React%20js",
+    "missingKnowledge": "WebPack, RequireJS",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "ITPO group",
+    "vacancyLink": "https://hh.ru/vacancy/67327557?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=react",
+    "missingKnowledge": "Redux Saga, создание заглушек и mock серверной части",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "Netris",
+    "vacancyLink": "https://hh.ru/vacancy/68058420?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=react",
+    "missingKnowledge": "Redux-Saga",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "АйТи-бюро «Зебра»",
+    "vacancyLink": "https://career.habr.com/vacancies/1000093168",
+    "missingKnowledge": "",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "WARPOINT ARENA",
+    "vacancyLink": "https://hh.ru/vacancy/66503514?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend",
+    "missingKnowledge": "",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "ООО Хокинг Бразерс\n",
+    "vacancyLink": "https://hh.ru/vacancy/67876873?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=react",
+    "missingKnowledge": "Next.js, ",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "ООО Ростелеком Информационные Технологии",
+    "vacancyLink": "https://hh.ru/vacancy/67118546?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend",
+    "missingKnowledge": "Service Worker",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "ООО Сибериан.Про",
+    "vacancyLink": "https://hh.ru/vacancy/67862652?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend",
+    "missingKnowledge": "Webpack",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "Ultimate Capital",
+    "vacancyLink": "https://hh.ru/vacancy/67807650?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend",
+    "missingKnowledge": "",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "ИП Котельникова Анна Михайловна",
+    "vacancyLink": "https://hh.ru/vacancy/67069190?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend",
+    "missingKnowledge": "",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  },
+  {
+    "company": "ООО Бест-Рк\n",
+    "vacancyLink": "https://hh.ru/vacancy/68119644?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend",
+    "missingKnowledge": "",
+    "status": "active",
+    "lastUpdate": "25.07.2022"
+  }
+]
