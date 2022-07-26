@@ -1,0 +1,177 @@
+[
+  {
+    "company": "vk",
+    "vacancyLink": "https://hh.ru/vacancy/68061630",
+    "missingKnowledge": ["ssr"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:29.997Z"
+  },
+  {
+    "company": "AppEvent",
+    "vacancyLink": "https://hh.ru/vacancy/67304300",
+    "missingKnowledge": ["webpack", "git"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:31.259Z"
+  },
+  {
+    "company": "Девять Линий",
+    "vacancyLink": "https://hh.ru/vacancy/67881791",
+    "missingKnowledge": ["saga", "ssr", "storybook"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:32.021Z"
+  },
+  {
+    "company": "ИП Андреев Артём Александрович",
+    "vacancyLink": "https://hh.ru/vacancy/68067343",
+    "missingKnowledge": ["git"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:32.637Z"
+  },
+  {
+    "company": "ООО Интер-Союз",
+    "vacancyLink": "https://hh.ru/vacancy/68117072",
+    "missingKnowledge": [],
+    "status": "open",
+    "lastUpdate": "2022-07-26T11:41:33.507Z"
+  },
+  {
+    "company": "42Clouds",
+    "vacancyLink": "https://hh.ru/vacancy/67649113",
+    "missingKnowledge": ["git"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:33.965Z"
+  },
+  {
+    "company": "ozon",
+    "vacancyLink": "https://job.ozon.ru/vacancy/razrabotchik-javascript-platforma-frontend-51645789/?department=Ozon%20%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8&specialization=%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B",
+    "missingKnowledge": [],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:34.623Z"
+  },
+  {
+    "company": "PskovHack",
+    "vacancyLink": "https://career.habr.com/vacancies/1000105754",
+    "missingKnowledge": ["git"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T11:39:23.432Z"
+  },
+  {
+    "company": "АйТи-бюро «Зебра»",
+    "vacancyLink": "https://career.habr.com/vacancies/1000093168",
+    "missingKnowledge": ["vue", "git"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:35.941Z"
+  },
+  {
+    "company": "atlr.xyz",
+    "vacancyLink": "https://career.habr.com/vacancies/1000106934",
+    "missingKnowledge": ["preact"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:36.550Z"
+  },
+  {
+    "company": "Парфюмерно-косметический супермаркет Золотое Яблоко",
+    "vacancyLink": "https://hh.ru/vacancy/67496402",
+    "missingKnowledge": ["git"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:37.735Z"
+  },
+  {
+    "company": "ООО К-Скай",
+    "vacancyLink": "https://hh.ru/vacancy/67618630",
+    "missingKnowledge": ["bem"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:40.001Z"
+  },
+  {
+    "company": "KITE",
+    "vacancyLink": "https://hh.ru/vacancy/55308949",
+    "missingKnowledge": [],
+    "status": "open",
+    "lastUpdate": "2022-07-26T20:47:03.615Z"
+  },
+  {
+    "company": "Филиал компании Ол Фюнерал Сервисиз Москва",
+    "vacancyLink": "https://hh.ru/vacancy/67508747",
+    "missingKnowledge": ["git", "bem", "unit test"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:41.785Z"
+  },
+  {
+    "company": "USETECH",
+    "vacancyLink": "https://hh.ru/vacancy/47097339",
+    "missingKnowledge": ["git", "git flow", "mobx", "graphQL"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:42.481Z"
+  },
+  {
+    "company": "Автохолдинг РРТ",
+    "vacancyLink": "https://hh.ru/vacancy/52194931",
+    "missingKnowledge": ["mobx"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:43.258Z"
+  },
+  {
+    "company": "Elfsight",
+    "vacancyLink": "https://hh.ru/vacancy/55190934",
+    "missingKnowledge": ["git"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:44.066Z"
+  },
+  {
+    "company": "ООО Онли",
+    "vacancyLink": "https://hh.ru/vacancy/67402527",
+    "missingKnowledge": ["git", "gitlab", "jest", "jira"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:45.401Z"
+  },
+  {
+    "company": "Finbridge",
+    "vacancyLink": "https://hh.ru/vacancy/67400884",
+    "missingKnowledge": ["next", "unit test", "git"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:50.165Z"
+  },
+  {
+    "company": "БКС IT & Digital",
+    "vacancyLink": "https://hh.ru/vacancy/67578663",
+    "missingKnowledge": ["unit test", "recompose"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:51.229Z"
+  },
+  {
+    "company": "ООО Интермобилити",
+    "vacancyLink": "https://hh.ru/vacancy/67334784",
+    "missingKnowledge": ["react-redux-router", "git"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:52.091Z"
+  },
+  {
+    "company": "The Skolkovo Institute of Science and Technology",
+    "vacancyLink": "https://hh.ru/vacancy/67131527",
+    "missingKnowledge": [],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:53.012Z"
+  },
+  {
+    "company": "ООО Звук",
+    "vacancyLink": "https://hh.ru/vacancy/67379880",
+    "missingKnowledge": ["ssr", "next", "mobx", "styled components", "oauth2"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:54.340Z"
+  },
+  {
+    "company": "Gectaro",
+    "vacancyLink": "https://hh.ru/vacancy/68076095",
+    "missingKnowledge": ["gulp", "webpack"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:57.149Z"
+  },
+  {
+    "company": "AMAKids",
+    "vacancyLink": "https://hh.ru/vacancy/67805258",
+    "missingKnowledge": ["webpack"],
+    "status": "open",
+    "lastUpdate": "2022-07-26T10:41:58.219Z"
+  }
+]
