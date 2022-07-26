@@ -1,0 +1,198 @@
+{
+  "1": {
+    "company": "ООО Абарус",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/68072933",
+    "missingKnowledge": "Git version control, особенности отображения браузеров",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "2": {
+    "company": "Антереал",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/53537843",
+    "missingKnowledge": "Vue, ООП принципы и патерны проектирования",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "3": {
+    "company": "ilink",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/35914095",
+    "missingKnowledge": "адаптив, кроссбраузерность",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "4": {
+    "company": "ООО Центральное агентство недвижимости",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/55378904",
+    "missingKnowledge": "",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "5": {
+    "company": "it-aces.com",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/52390173",
+    "missingKnowledge": "опыт работы со сложными продуктами",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "6": {
+    "company": "МАУ ДПО НИСО",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/67967279",
+    "missingKnowledge": "Node.js, webpack, express",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "7": {
+    "company": "ООО МобайлДевелопмент",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/68010196",
+    "missingKnowledge": "платформа ensi, MobX",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "8": {
+    "company": "Кибер-Невод",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/67401501",
+    "missingKnowledge": "шаблонизатор blade, php на уровне шаблонов",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "9": {
+    "company": "ООО Спутник",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/67355940",
+    "missingKnowledge": "flutter, ооп, firebase, язык dart, дизайн системы material-cupertino",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "10": {
+    "company": "Бюджетные и Финансовые Технологии",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/67664591",
+    "missingKnowledge": "ООП, unit,e2e и интеграциооные тесты",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "11": {
+    "company": "GrapeCity Inc.",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/66822313",
+    "missingKnowledge": "ООП, Webpack/Rollup, основы TDD",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "12": {
+    "company": "Jet5",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/67357393",
+    "missingKnowledge": "jQuery",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "13": {
+    "company": "ООО Информационные Решения Сибири",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/67521403",
+    "missingKnowledge": "PHP, знание вебсокетов, работа с сервером",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "14": {
+    "company": "ООО ИСС Арт",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/68003703",
+    "missingKnowledge": "webpack, node.js(electron), intermediate английский",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "15": {
+    "company": "RIT Automation",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/67282808",
+    "missingKnowledge": "angular, sql",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "16": {
+    "company": "ООО Napoleon IT",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/67932708",
+    "missingKnowledge": "NextJS",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "17": {
+    "company": "ООО Yarar",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/67352748",
+    "missingKnowledge": "адпатив",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "18": {
+    "company": "ООО Свик",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/36361480",
+    "missingKnowledge": "особенности браузеров",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "19": {
+    "company": "Pyrobyte",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/68113494",
+    "missingKnowledge": "BEM методология",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "20": {
+    "company": "Европейская Юридическая Служба, Компания",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/67802140",
+    "missingKnowledge": "хорошее владение Sass/Less/Stylus",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "21": {
+    "company": "Redbox",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/67734554",
+    "missingKnowledge": "REST, BEM методология, unit тесты",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "22": {
+    "company": "Russian Robotics",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/67913137",
+    "missingKnowledge": "JQuery, БЭМ методология",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "23": {
+    "company": "NUTS digital-agency",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/67550623",
+    "missingKnowledge": "Ajax, jQuery, методология БЭМ",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "24": {
+    "company": "ООО Открытый код",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/67540849",
+    "missingKnowledge": "webpack, bootstrap, ajax, websocket, scss, кросс-браузерность",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "25": {
+    "company": "Восточный Ветер",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/68112899",
+    "missingKnowledge": "Semantic UI, классические алгоритмы",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "26": {
+    "company": "ЭОС",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/67857265",
+    "missingKnowledge": "",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "27": {
+    "company": "Контур",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/67462445",
+    "missingKnowledge": "",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  },
+  "28": {
+    "company": "Тензор",
+    "vacancyLink": "https://tomsk.hh.ru/vacancy/46325553",
+    "missingKnowledge": "принципы ООП, оптимизация страницы, LESS",
+    "status": "active",
+    "lastUpadate": "25.07.2022"
+  }
+}
