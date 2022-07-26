@@ -1,6 +1,6 @@
 [
   { "skill": "jira", "estimation": 4 },
-  { "skill": "next", "estimation": 48 },
+  { "skill": "next", "estimation": 24 },
   { "skill": "git", "estimation": 12 },
   { "skill": "webpack", "estimation": 8 },
   { "skill": "bem", "estimation": 6 },
