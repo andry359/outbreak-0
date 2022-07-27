@@ -1,0 +1,22 @@
+[
+  {
+    "skill": "mobx",
+    "estimation": 3
+  },
+  {
+    "skill": "Понимание метрик производительности сайта",
+    "estimation": 2
+  },
+  {
+    "skill": "алгоритмы",
+    "estimation": 8
+  },
+  {
+    "skill": "docker",
+    "estimation": 2
+  },
+  {
+    "skill": "jira",
+    "estimation": 2
+  }
+]
