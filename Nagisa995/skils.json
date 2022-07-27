@@ -1,0 +1,15 @@
+[
+  { "skill": "adaptive layout", "estimation": 35 },
+  { "skill": "Node.js", "estimation": 10 },
+  { "skill": "express", "estimation": 5 },
+  { "skill": "blade", "estimation": 8 },
+  { "skill": "flutter+dart", "estimation": 40 },
+  { "skill": "MobX", "estimation": 8 },
+  { "skill": "firebase", "estimation": 15 },
+  { "skill": "TDD", "estimation": 6 },
+  { "skill": "jQuery", "estimation": 8 },
+  { "skill": "BEM", "estimation": 20 },
+  { "skill": "REST", "estimation": 4 },
+  { "skill": "Ajax", "estimation": 8 },
+  { "skill": "Semantic UI", "estimation": 10 }
+]
