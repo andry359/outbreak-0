@@ -1,0 +1,164 @@
+[
+	{"company": "Torgbox", 
+			"vacancyLink": "https://krasnoyarsk.hh.ru/vacancy/43259186?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react", 
+			"missingKnowledge": ["bootstrap, Знание любой ОС из семейства Unix на уровне администратора"], 
+			"status": "open", 
+			"lastUpadte": "21.07.2022"},
+	{
+		"company": "ООО ИСС Арт (ISS Art)",
+		"vacancyLink": "https://krasnoyarsk.hh.ru/vacancy/68003703?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react",
+		"missingKnowledge": ["Webpack", "английский язык - intermediate"],
+		"status": "open",
+		"lastUpadte": "21.07.2022"
+	},
+	{
+		"company": "itMegaStar",
+		"vacancyLink": "https://krasnoyarsk.hh.ru/vacancy/50966596?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react",
+		"missingKnowledge": ["Angular", "SASS/LESS"],
+		"status": "open",
+		"lastUpadte": "08.07.2022"
+	},
+	{
+		"company": "Кибер-Невод",
+		"vacancyLink": "https://krasnoyarsk.hh.ru/vacancy/67401501?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react",
+		"missingKnowledge": ["PHP"],
+		"status": "open",
+		"lastUpadte": "01.07.2022"
+	},
+	{
+		"company": "Altenar",
+		"vacancyLink": "https://hh.ru/vacancy/46208443?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20junior%20javascript%20react",
+		"missingKnowledge": ["PHP"],
+		"status": "open",
+		"lastUpadte": "01.07.2022"
+	},
+	{
+		"company": "ИП Андреев Артем Александрович",
+		"vacancyLink": "https://hh.ru/vacancy/68067343?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20junior%20javascript%20react",
+		"status": "open",
+		"lastUpadte": "25.07.2022"
+	},
+	{
+		"company": "ИП Андреев Артем Александрович",
+		"vacancyLink": "https://hh.ru/vacancy/68067343?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20junior%20javascript%20react",
+		"status": false,
+		"lastUpadte": "25.07.2022"
+	},
+	{
+		"company": "DIGITAL TEAM",
+		"vacancyLink": "https://hh.ru/vacancy/67298377?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20junior%20javascript%20react",
+		"status": false,
+		"lastUpadte": "28.06.2022"
+	},
+	{
+		"company": "JОО ДЭВЭЛОПИН",
+		"vacancyLink": "https://hh.ru/vacancy/67765311?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20junior%20javascript%20react",
+		"status": false,
+		"missingKnowledge": ["Vue"],
+		"lastUpadte": "28.06.2022"
+	},
+	{
+		"company": "42 CLOUDS",
+		"vacancyLink": "https://hh.ru/vacancy/67649113?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20junior%20javascript%20react",
+		"status": false,
+		"missingKnowledge": ["Sass"],
+		"lastUpadte": "11.07.2022"
+	},
+	{
+		"company": "НПО «СпецТехнологии»",
+		"vacancyLink": "https://hh.ru/vacancy/68071770?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react",
+		"status": false,
+		"missingKnowledge": ["MobX"],
+		"lastUpadte": "25.07.2022"
+	},
+	{
+		"company": "THINK24",
+		"vacancyLink": "https://hh.ru/vacancy/68145749?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react",
+		"status": false,
+		"missingKnowledge": ["опыт написания тестов", "Vue.js"],
+		"lastUpadte": "26.07.2022"
+	},
+	{
+		"company": "ХАЙТЭК ДЕВЕЛОПМЕНТ ГРУПП",
+		"vacancyLink": "https://hh.ru/vacancy/55254695?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react",
+		"status": false,
+		"lastUpadte": "26.07.2022"
+	},
+	{
+		"company": "ООО Академия создания капиталла",
+		"vacancyLink": "https://hh.ru/vacancy/68161318?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react",
+		"status": false,
+		"missingKnowledge": ["Gulp, Webpack", "Next Js", "Опыт написания unit/e2e тестов"],
+		"lastUpadte": "26.07.2022"
+	},
+	{
+		"company": "Remokate",
+		"vacancyLink": "https://hh.ru/vacancy/68075514?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react",
+		"status": false,
+		"missingKnowledge": ["Webpack"],
+		"lastUpadte": "25.07.2022"
+	},
+	{
+		"company": "Netris",
+		"vacancyLink": "https://hh.ru/vacancy/68058420?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react",
+		"status": false,
+		"missingKnowledge": [],
+		"lastUpadte": "25.07.2022"
+	},
+	{
+		"company": "Парфюмерно - косметическая компания Золотое яблоко",
+		"vacancyLink": "https://hh.ru/vacancy/67496402?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react",
+		"status": false,
+		"missingKnowledge": ["SASS, SCSS"],
+		"lastUpadte": "26.07.2022"
+	},
+	{
+		"company": "Газпромбанк",
+		"vacancyLink": "https://hh.ru/vacancy/68137316?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react",
+		"status": false,
+		"missingKnowledge": [],
+		"lastUpadte": "26.07.2022"
+	},
+	{
+		"company": "OptimaxDev",
+		"vacancyLink": "https://hh.ru/vacancy/41725346?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react",
+		"status": false,
+		"missingKnowledge": [],
+		"lastUpadte": "25.07.2022"
+	},
+	{
+		"company": "МФТИ ГУ",
+		"vacancyLink": "https://hh.ru/vacancy/68151480?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react",
+		"status": false,
+		"missingKnowledge": [],
+		"lastUpadte": "26.07.2022"
+	},
+	{
+		"company": "Модульбанк",
+		"vacancyLink": "https://hh.ru/vacancy/68146128?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react",
+		"status": false,
+		"missingKnowledge": [],
+		"lastUpadte": "26.07.2022"
+	},
+	{
+		"company": "Сберкорус",
+		"vacancyLink": "https://hh.ru/vacancy/67460964?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react",
+		"status": false,
+		"missingKnowledge": [],
+		"lastUpadte": "26.07.2022"
+	},
+	{
+		"company": "Девять линий",
+		"vacancyLink": "https://hh.ru/vacancy/67881791?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react",
+		"status": false,
+		"missingKnowledge": ["Next.js", "Styled-component", "Storybook"],
+		"lastUpadte": "24.07.2022"
+	},
+	{
+		"company": "ИП Богач Евгений Александрович",
+		"vacancyLink": "https://hh.ru/vacancy/68155211?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20developer%20javascript%20react",
+		"status": false,
+		"missingKnowledge": [],
+		"lastUpadte": "26.07.2022"
+	}
+]
