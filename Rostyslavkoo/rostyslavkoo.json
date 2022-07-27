@@ -56,15 +56,162 @@
 	{
 		"company": "Binerals",
 		"vacancyLink": "https://jobs.dou.ua/companies/binerals/vacancies/211341/",
-		"missingKnowledge": ["2+ years experience using ReactJs,Understanding of principles and experience with REST API, GraphQL, WebSocket,Experience with Linux/Unix (shell),Intermediate English or higher,Experience with NextJS"],
+		"missingKnowledge": [
+			"2+ years experience using ReactJs,Understanding of principles and experience with REST API, GraphQL, WebSocket,Experience with Linux/Unix (shell),Intermediate English or higher,Experience with NextJS"
+		],
 		"status": false,
 		"lastUpdate": "26 Jul 2022"
 	},
 	{
 		"company": "Qualium Systems",
 		"vacancyLink": "https://jobs.dou.ua/companies/qualium-systems/vacancies/213992/",
-		"missingKnowledge": ["Experience of work with Three.js,To be familiar with WebGL, WebXR, CameraAPI;"],
+		"missingKnowledge": [
+			"Experience of work with Three.js,To be familiar with WebGL, WebXR, CameraAPI;"
+		],
 		"status": false,
 		"lastUpdate": "26 Jul 2022"
+	},
+	{
+		"company": "EPAM",
+		"vacancyLink": "https://www.globallogic.com/ua/careers/software-engineer-frontend-react-irc159330/",
+		"missingKnowledge": ["English level intermediate +"],
+		"status": false,
+		"lastUpdate": "27 Jul 2022"
+	},
+	{
+		"company": "WeAreBrain",
+		"vacancyLink": "https://jobs.dou.ua/companies/brain-agency/vacancies/214403/",
+		"missingKnowledge": [
+			"Hands-on experience of popular JS linters usage and other static code analysis tools",
+			"Upper intermediate English proficiency and fluent Ukrainian/Russian is a must"
+		],
+		"status": false,
+		"lastUpdate": "27 Jul 2022"
+	},
+	{
+		"company": "Maytech",
+		"vacancyLink": "https://jobs.dou.ua/companies/maytech/vacancies/98697/",
+		"missingKnowledge": [
+			"MVC architecture, REST API, Intermediate+ level of English."
+		],
+		"status": false,
+		"lastUpdate": "27 Jul 2022"
+	},
+	{
+		"company": "TechFabric",
+		"vacancyLink": "https://jobs.dou.ua/companies/-tech-fabric/vacancies/194734/",
+		"missingKnowledge": [
+			"Xlxs(load and save spreadsheet), Yup (validation), React Query"
+		],
+		"status": false,
+		"lastUpdate": "27 Jul 2022"
+	},
+	{
+		"company": "Unicorn UA",
+		"vacancyLink": "https://jobs.dou.ua/companies/unicorn-systems-ua/vacancies/214179/",
+		"missingKnowledge": [
+			"SOLID, OOP, REST, English — Upper-Intermediate level"
+		],
+		"status": false,
+		"lastUpdate": "27 Jul 2022"
+	},
+	{
+		"company": "MagicHire",
+		"vacancyLink": "https://jobs.dou.ua/companies/magichire/vacancies/214140/",
+		"missingKnowledge": [
+			"Jest, Docker",
+			"40 hours work week, need to be online 10-4 p.m UK time, remote, GMT +/- 3"
+		],
+		"status": false,
+		"lastUpdate": "27 Jul 2022"
+	},
+	{
+		"company": "Digicode",
+		"vacancyLink": "https://jobs.dou.ua/companies/digicode/vacancies/195942/",
+		"missingKnowledge": ["GatsbyJS, Mobx"],
+		"status": false,
+		"lastUpdate": "27 Jul 2022"
+	},
+	{
+		"company": "Digicode",
+		"vacancyLink": "https://jobs.dou.ua/companies/deloitte/vacancies/214043/",
+		"missingKnowledge": ["GatsbyJS, Mobx"],
+		"status": false,
+		"lastUpdate": "27 Jul 2022"
+	},
+	{
+		"company": "Deloitte",
+		"vacancyLink": "https://jobs.dou.ua/companies/deloitte/vacancies/214043/",
+		"missingKnowledge": ["OOP , English skills (Upper-Intermediate level)"],
+		"status": false,
+		"lastUpdate": "27 Jul 2022"
+	},
+	{
+		"company": "Atlana",
+		"vacancyLink": "https://jobs.dou.ua/companies/atlana/vacancies/196607/",
+		"missingKnowledge": ["SMT,  Unit Testing"],
+		"status": false,
+		"lastUpdate": "27 Jul 2022"
+	},
+	{
+		"company": "InterLogic",
+		"vacancyLink": "https://jobs.dou.ua/companies/interlogic/vacancies/201095/",
+		"missingKnowledge": ["upper-intermediate English"],
+		"status": false,
+		"lastUpdate": "27 Jul 2022"
+	},
+	{
+		"company": "WizardsDev",
+		"vacancyLink": "https://jobs.dou.ua/companies/wizardsdev/vacancies/139715/",
+		"missingKnowledge": [
+			"Deep understanding of development principles and paradigms, architectural concepts, patterns, and approachesh"
+		],
+		"status": false,
+		"lastUpdate": "27 Jul 2022"
+	},
+	{
+		"company": "Riseapps",
+		"vacancyLink": "https://jobs.dou.ua/companies/riseapps/vacancies/213855/",
+		"missingKnowledge": [
+			" Google Cloud Platform, micro-frontend architecture and popular middlewares, Front end optimization, RESTfull API integration, solid unit and integration tests"
+		],
+		"status": false,
+		"lastUpdate": "27 Jul 2022"
+	},
+	{
+		"company": "EVO",
+		"vacancyLink": "https://jobs.dou.ua/companies/evo/vacancies/210236/",
+		"missingKnowledge": [
+			"Unit test"
+		],
+		"status": false,
+		"lastUpdate": "27 Jul 2022"
+	},
+	{
+		"company": "BPO Nextdoor",
+		"vacancyLink": "https://jobs.dou.ua/companies/bpo-nextdoor/vacancies/213733/",
+		"missingKnowledge": [
+			"Upper-intermediate level of English is a must, React Native, Shopware"
+		],
+		"status": false,
+		"lastUpdate": "27 Jul 2022"
+	},
+	{
+		"company": "VYMEX",
+		"vacancyLink": "https://jobs.dou.ua/companies/vymex/vacancies/213728/",
+		"missingKnowledge": [
+			"Socket Engine, not remote"
+		],
+		"status": false,
+		"lastUpdate": "27 Jul 2022"
+	},
+	{
+		"company": "VYMEX",
+		"vacancyLink": "https://jobs.dou.ua/companies/brightech/vacancies/213675/",
+		"missingKnowledge": [
+			"Node.js, unit tests, English Intermediate level."
+		],
+		"status": false,
+		"lastUpdate": "27 Jul 2022"
 	}
 ]
