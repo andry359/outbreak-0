@@ -1,0 +1,42 @@
+[
+  {
+    "skill": "SASS",
+    "estimation": 3
+  },
+  {
+    "skill": "Webpack",
+    "estimation": 1
+  },
+  {
+    "skill": "Redux-Saga",
+    "estimation": 6
+  },
+  {
+    "skill": "Next.js",
+    "estimation": 15
+  },
+  {
+    "skill": "jira",
+    "estimation": 5
+  },
+  {
+    "skill": "confluence",
+    "estimation": 5
+  },
+  {
+    "skill": "react-hook-form",
+    "estimation": 2
+  },
+  {
+    "skill": "Unit-тесты",
+    "estimation": 10
+  },
+  {
+    "skill": "React 18",
+    "estimation": 1
+  },
+  {
+    "skill": "ООП",
+    "estimation": 10
+  }
+]

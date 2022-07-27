@@ -1,0 +1,178 @@
+[
+  {
+    "company": "24HS",
+    "vacancyLink": "https://hh.ru/vacancy/50894440",
+    "missingKnowledge": ["SASS", "Webpack", "ООП"],
+    "status": "watched",
+    "lastUpdate": "2022-07-25"
+  },
+  {
+    "company": "Альянс Эко",
+    "vacancyLink": "https://hh.ru/vacancy/68072585",
+    "missingKnowledge": ["Webpack", "PostCSS"],
+    "status": "watched",
+    "lastUpdate": "2022-07-25"
+  },
+  {
+    "company": "Elfsight Inc.",
+    "vacancyLink": "https://hh.ru/vacancy/55107545",
+    "missingKnowledge": [],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "Девять Линий",
+    "vacancyLink": "https://hh.ru/vacancy/67881791",
+    "missingKnowledge": ["Redux-Saga", "Next.js", "React-hook-form"],
+    "status": "watched",
+    "lastUpdate": "2022-07-25"
+  },
+  {
+    "company": "ООО Требити",
+    "vacancyLink": "https://hh.ru/vacancy/68088107",
+    "missingKnowledge": [],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "Megaputer Intelligence",
+    "vacancyLink": "https://hh.ru/vacancy/68140062",
+    "missingKnowledge": [],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "АО Нейросети",
+    "vacancyLink": "https://hh.ru/vacancy/67580519",
+    "missingKnowledge": [],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "ООО Мигас",
+    "vacancyLink": "https://hh.ru/vacancy/54262294",
+    "missingKnowledge": [],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "CyberOK",
+    "vacancyLink": "https://hh.ru/vacancy/67922398",
+    "missingKnowledge": ["Webpack"],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "Own Script",
+    "vacancyLink": "https://hh.ru/vacancy/67923456",
+    "missingKnowledge": ["Webpack"],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "bip.ru",
+    "vacancyLink": "https://hh.ru/vacancy/68112851",
+    "missingKnowledge": ["Препроцессор"],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "ООО Темполайн Логистика",
+    "vacancyLink": "https://hh.ru/vacancy/67707946",
+    "missingKnowledge": [],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "Action tech",
+    "vacancyLink": "https://career.habr.com/vacancies/1000072697",
+    "missingKnowledge": [],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "Portlab",
+    "vacancyLink": "https://career.habr.com/vacancies/1000100973",
+    "missingKnowledge": [],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "POLI HUNT",
+    "vacancyLink": "https://career.habr.com/vacancies/1000106178",
+    "missingKnowledge": [],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "Атлас",
+    "vacancyLink": "https://career.habr.com/vacancies/1000106701",
+    "missingKnowledge": [],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "Траектория",
+    "vacancyLink": "https://hh.ru/vacancy/67048770",
+    "missingKnowledge": [],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "АО Деловая среда",
+    "vacancyLink": "https://hh.ru/vacancy/67898561",
+    "missingKnowledge": ["Webpack", "SCSS"],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "Сбер. IT",
+    "vacancyLink": "https://hh.ru/vacancy/66634517",
+    "missingKnowledge": [],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "ООО Гравител",
+    "vacancyLink": "https://hh.ru/vacancy/67654530",
+    "missingKnowledge": ["GraphQL", "SQL", "NoSQL"],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "ООО Аспект",
+    "vacancyLink": "https://hh.ru/vacancy/54547041",
+    "missingKnowledge": ["SCSS", "Next.js"],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "Wanted",
+    "vacancyLink": "https://hh.ru/vacancy/68037475",
+    "missingKnowledge": [],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "ООО Сэлф Софт Продакшн",
+    "vacancyLink": "https://hh.ru/vacancy/67145576",
+    "missingKnowledge": ["Redux-Saga", "React 18", "Next.js", "jira", "confluence", "Unit тесты"],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "ООО Инновационная Экологическая Платформа",
+    "vacancyLink": "https://hh.ru/vacancy/67927092",
+    "missingKnowledge": [],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  },
+  {
+    "company": "ООО Вебинар Технологии",
+    "vacancyLink": "https://hh.ru/vacancy/67598064",
+    "missingKnowledge": [],
+    "status": "watched",
+    "lastUpdate": "2022-07-26"
+  }
+]
+
