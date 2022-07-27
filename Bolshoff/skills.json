@@ -1,0 +1,28 @@
+[
+  {
+    "skill": "mobx",
+    "estimation": 5
+  },
+
+  {
+    "skill": "docker",
+    "estimation": 3
+  },
+  {
+    "skill": "jira",
+    "estimation": 2
+  },
+  {
+    "skill": "TypeScript",
+    "estimation": 11
+  },
+
+  {
+    "skill": "GraphQL",
+    "estimation": 12
+  },
+  {
+    "skill": "Redux-Saga",
+    "estimation": 11
+  }
+]
