@@ -1,0 +1,241 @@
+[
+  {
+    "company": "ООО Прогрессивные информационные технологии",
+    "vacancyLink": "https://perm.hh.ru/vacancy/68192095?from=main&hhtmFromLabel=applicant_recommended_vacancies&hhtmFrom=main",
+    "missingKnowledge": [
+      "Написание юнит-тестов"
+    ],
+    "status": true,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "NOVARDIS",
+    "vacancyLink": "https://perm.hh.ru/vacancy/66213729?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=react",
+    "missingKnowledge": [
+      ""
+    ],
+    "status": true,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "Центр Высоких Технологий",
+    "vacancyLink": "https://perm.hh.ru/vacancy/67866701?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      ""
+    ],
+    "status": true,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "ООО Гриндата",
+    "vacancyLink": "https://perm.hh.ru/vacancy/51940617?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      "Mobx",
+      "Покрытие кода тестами"
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "Университет ИТМО",
+    "vacancyLink": "https://perm.hh.ru/vacancy/68151357?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      "mobx",
+      "bootstrap"
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "ООО Неразрушающий контроль",
+    "vacancyLink": "https://perm.hh.ru/vacancy/68144941?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      "AJAX"
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "AppEvent",
+    "vacancyLink": "https://perm.hh.ru/vacancy/67304300?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      "Babel"
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "ООО Профсофт",
+    "vacancyLink": "https://perm.hh.ru/vacancy/67994993?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      "Babel",
+      "Yarn"
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "ООО Академия Создания Капитала",
+    "vacancyLink": "https://perm.hh.ru/vacancy/68161318?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      "Next Js"
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "МФТИ ГУ",
+    "vacancyLink": "https://perm.hh.ru/vacancy/68151480?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      ""
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "Netris",
+    "vacancyLink": "https://perm.hh.ru/vacancy/68058420?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "ИП Богач Евгений Александрович\n",
+    "vacancyLink": "https://perm.hh.ru/vacancy/68155211?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      ""
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "«РОСБАНК»",
+    "vacancyLink": "https://perm.hh.ru/vacancy/68166903?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      "SOAP"
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "Правое Полушарие Интроверта",
+    "vacancyLink": "https://perm.hh.ru/vacancy/68150838?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      "RxJs"
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "Babel",
+    "vacancyLink": "https://perm.hh.ru/vacancy/68152699?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      "Babel"
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "Сектор Бизнеса",
+    "vacancyLink": "https://perm.hh.ru/vacancy/67983936?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      ""
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "ИП Котельникова Анна Михайловна",
+    "vacancyLink": "https://perm.hh.ru/vacancy/67069190?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      ""
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "WARPOINT ARENA",
+    "vacancyLink": "https://perm.hh.ru/vacancy/66503514?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      ""
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "Инсайрес",
+    "vacancyLink": "https://perm.hh.ru/vacancy/66764933?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      "PostgreSQL",
+      ".Net Core"
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "ХайТэк Девелопмент Групп",
+    "vacancyLink": "https://perm.hh.ru/vacancy/55254695?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      ""
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "ООО СМАРТ АйТи Солюшенс",
+    "vacancyLink": "https://perm.hh.ru/vacancy/68185365?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      ""
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "inDriver",
+    "vacancyLink": "https://perm.hh.ru/vacancy/54139026?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      ""
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "Softline",
+    "vacancyLink": "https://perm.hh.ru/vacancy/67866243?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      ""
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "Enjoypro",
+    "vacancyLink": "https://perm.hh.ru/vacancy/67346903?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      ""
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "Syntellect (ООО СИНТЕЛЛЕКТ)",
+    "vacancyLink": "https://perm.hh.ru/vacancy/52179081?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      "MobX"
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  },
+  {
+    "company": "RedLab",
+    "vacancyLink": "https://perm.hh.ru/vacancy/67985926?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA",
+    "missingKnowledge": [
+      "Написание тестов",
+      "Docker",
+      "nuxt"
+    ],
+    "status": false,
+    "lastUpdate": "27 Jul 2022"
+  }
+]
