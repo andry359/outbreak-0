@@ -1,0 +1,22 @@
+[
+	{ "skill": "VUE", 
+	  "estimation": 45 }, 
+	{ "skill": "Webpack", 
+	  "estimation": 9 },
+	{ "skill": "Mobx", 
+	  "estimation": 12 },
+	{ "skill": "Styled-component", 
+		"estimation": 4 },
+	{ "skill": "Next.js", 
+		"estimation": 30 },
+	{ "skill": "Storybook", 
+	  "estimation": 6 },
+	{ "skill": "Jest", 
+	  "estimation": 13 },
+	{ "skill": "REST API", 
+	  "estimation": 4 },
+	{ "skill": "Dessign patterns", 
+	  "estimation": 12 },
+	{ "skill": "Redux suga", 
+	  "estimation": 12 }  	  	
+]
