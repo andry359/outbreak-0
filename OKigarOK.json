@@ -1,0 +1,262 @@
+[
+  {
+    "company": "Scandiweb Bel",
+    "vacancyLink": "https://jobs.devby.io/vacancies/21920",
+    "missingKnowledge": [],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "Flatlogic LLC",
+    "vacancyLink": "https://jobs.devby.io/vacancies/18752",
+    "missingKnowledge": [
+      "English B2+",
+      "deep React",
+      "patterns",
+      "ООП"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "IdeaSoft",
+    "vacancyLink": "https://jobs.devby.io/vacancies/16115",
+    "missingKnowledge": [
+      "deep React Native",
+      "Next.js",
+      "deep Node.js",
+      "English B1+",
+      "опыт работы с Linux, bash, webpack, metro"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "Агентство рекламы и веб-разработки ВТОП3",
+    "vacancyLink": "https://rabota.by/vacancy/67776320?query=frontend%20developer&from=vacancy_search_catalog&hhtmFrom=vacancy_search_catalog",
+    "missingKnowledge": [
+      "WordPress, Joomla, OpenCart"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "Seobility",
+    "vacancyLink": "https://rabota.by/vacancy/68098893?query=frontend%20developer&from=vacancy_search_catalog&hhtmFrom=vacancy_search_catalog",
+    "missingKnowledge": [
+      "опыт работы с youtube, google captcha и т.д.",
+      "опыт работы с ajax запросами",
+      "опыт работы в оптимизации скорости загрузки",
+      "базовое знание seo"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "ОАО ЦНИИТУ",
+    "vacancyLink": "https://rabota.by/vacancy/67611115?query=frontend%20developer&from=vacancy_search_catalog&hhtmFrom=vacancy_search_catalog",
+    "missingKnowledge": [
+      "CSS preprocessors (SASS/LESS/)",
+      "WebPack",
+      "REST API"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "ООО Интер-Союз",
+    "vacancyLink": "https://hh.ru/vacancy/68117072?query=frontend%20developer&from=vacancy_search_catalog&hhtmFrom=vacancy_search_catalog",
+    "missingKnowledge": [
+      "REST API",
+      "понимание базовых принципов CRUD",
+      "material-ui",
+      "css-in-js"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "ОАО Банковский процессинговый центр",
+    "vacancyLink": "https://rabota.by/vacancy/67751305?query=frontend%20developer&from=vacancy_search_catalog&hhtmFrom=vacancy_search_catalog",
+    "missingKnowledge": [
+      "CSS-препроцессоров (LESS / Sass)",
+      "Git, Redmine/Jira",
+      "Ajax, JSON-RPC, REST, WebSocket"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "IT Solutions Management International Pte. Ltd.",
+    "vacancyLink": "https://hh.ru/vacancy/67382049?query=frontend%20developer&from=vacancy_search_catalog&hhtmFrom=vacancy_search_catalog",
+    "missingKnowledge": [
+      "Vue.js, GraphQL",
+      "WebRTC (желательно)"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "ООО ФоксТри",
+    "vacancyLink": "https://rabota.by/vacancy/67610510?query=frontend%20developer&from=vacancy_search_catalog&hhtmFrom=vacancy_search_catalog",
+    "missingKnowledge": [
+      "API, AJAX, axios",
+      "UI-frameworks (Ant Design,MUI)"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "On The Spot Development",
+    "vacancyLink": "https://jobs.devby.io/vacancies/26184",
+    "missingKnowledge": [
+      "опыт",
+      "опыт написания модульных тестов и интеграционных тестов",
+      "английский"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "AxxonSoft",
+    "vacancyLink": "https://jobs.devby.io/vacancies/25733",
+    "missingKnowledge": [
+      "опыт работы с webpack",
+      "знание английского языка на уровне чтения спецификации"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "Maxbitsolution",
+    "vacancyLink": "https://jobs.devby.io/vacancies/25485",
+    "missingKnowledge": [
+      "опыт работы с Vue.js от 2х лет",
+      "опыт работы с Git, продуктами Atlassian (Jira)",
+      "навык написания unit-тестов"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "SpurIT",
+    "vacancyLink": "https://jobs.devby.io/vacancies/26037",
+    "missingKnowledge": [
+      "jQuery,SASS/SCSS/LESS"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "ISsoft",
+    "vacancyLink": "https://jobs.devby.io/vacancies/26227",
+    "missingKnowledge": [
+      "электронная коммерция"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "Форте Групп",
+    "vacancyLink": "https://jobs.devby.io/vacancies/26236",
+    "missingKnowledge": [
+      "Степень BS / BSE"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "ООО СВАПС системз",
+    "vacancyLink": "https://rabota.by/vacancy/67874139?query=frontend%20developer&from=vacancy_search_catalog&hhtmFrom=vacancy_search_catalog",
+    "missingKnowledge": [
+      "опыт использования Rest API",
+      "уверенное знание принципов ООП",
+      "английский В1+ (устный и письменный, использование в работе)"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "Innowise Group / Фабрика инноваций и решений",
+    "vacancyLink": "https://rabota.by/vacancy/67541499?query=frontend%20developer&from=vacancy_search_catalog&hhtmFrom=vacancy_search_catalog",
+    "missingKnowledge": [
+      "Опыт написания тестов (unit, E2E)",
+      "Опыт с Vue Utility libraries, UI libraries (Element, Vuetify)",
+      "Владение английским языком Intermediate (В1+) и выше"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "ООО Веб Секрет",
+    "vacancyLink": "https://rabota.by/vacancy/68077634?query=frontend%20developer&from=vacancy_search_catalog&hhtmFrom=vacancy_search_catalog",
+    "missingKnowledge": [
+      "опыт коммерческой разработки на React.js",
+      "опыт разработки на next.js"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "ООО Норс АйТи Групп",
+    "vacancyLink": "https://rabota.by/vacancy/67858388?query=frontend%20developer&from=vacancy_search_catalog&hhtmFrom=vacancy_search_catalog",
+    "missingKnowledge": [
+      "Знание английского языка от B1",
+      "Опыт работы от 3 лет"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "Selltech LLC",
+    "vacancyLink": "https://hh.ru/vacancy/67464637?query=frontend%20developer&from=vacancy_search_catalog&hhtmFrom=vacancy_search_catalog",
+    "missingKnowledge": [
+      "Опыт разработки проектов на React.js",
+      "Опыт работы с Graphql"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "ООО ДЕВХЭД",
+    "vacancyLink": "https://rabota.by/vacancy/67916934?query=frontend%20developer&from=vacancy_search_catalog&hhtmFrom=vacancy_search_catalog",
+    "missingKnowledge": [
+      "Опыт работы с крючками React",
+      "Знание REST API",
+      "Опыт и понимание применения SSR, опыт работы с Next.js"
+    ],
+    "status": false,
+    "lastUpdate": "26.07.2022"
+  },
+  {
+    "company": "Веб Маркетинг",
+    "vacancyLink": "https://rabota.by/vacancy/67662363?hhtmFromLabel=similar_vacancies&from=vacancy&hhtmFrom=vacancy",
+    "missingKnowledge": [
+      "Знание Photoshop/Figma на уровне нарезки макета",
+      "Наличие портфолио"
+    ],
+    "status": false,
+    "lastUpdate": "27.07.2022"
+  },
+  {
+    "company": "ООО Онилаб",
+    "vacancyLink": "https://rabota.by/vacancy/66069033?hhtmFromLabel=similar_vacancies&from=vacancy&hhtmFrom=vacancy",
+    "missingKnowledge": [
+      "Знание принципов оптимизации веб-приложений",
+      "Понимание принципов работы с REST и GraphQL"
+    ],
+    "status": false,
+    "lastUpdate": "27.07.2022"
+  },
+  {
+    "company": "Betera",
+    "vacancyLink": "https://rabota.by/vacancy/67879623?hhtmFromLabel=similar_vacancies&from=vacancy&hhtmFrom=vacancy",
+    "missingKnowledge": [
+      "Microfrontend",
+      "Vue.js",
+      "Опыт написания тестов"
+    ],
+    "status": false,
+    "lastUpdate": "27.07.2022"
+  }
+]
