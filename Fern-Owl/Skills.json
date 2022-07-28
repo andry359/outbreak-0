@@ -1,0 +1,18 @@
+[
+  {
+    "skill": "Docker",
+    "estimation": 8
+  },
+  {
+    "skill": "Webpack",
+    "estimation": 6
+  },
+  {
+    "skill": "GraphQL",
+    "estimation": 8
+  },
+  {
+    "skill": "Jira",
+    "estimation": 2
+  }
+]
