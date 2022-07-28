@@ -1,0 +1,263 @@
+[
+  {
+    "company": "Justice IT",
+    "vacancyLink": "https://krasnodar.hh.ru/vacancy/67416440",
+    "missingKnowledge": [
+      "redux-saga",
+      "опыт работы со сторибуком",
+      "REST API (Axios, Fetch)"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "Russian Robotics",
+    "vacancyLink": "https://krasnodar.hh.ru/vacancy/67913137",
+    "missingKnowledge": [
+      "JQuery",
+      "базовые знания Vue.js"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "ООО СМАРТ АйТи Солюшенс",
+    "vacancyLink": "https://krasnodar.hh.ru/vacancy/68185365",
+    "missingKnowledge": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "Optimax Dev",
+    "vacancyLink": "https://krasnodar.hh.ru/vacancy/67136465",
+    "missingKnowledge": [
+      "jest",
+      "Redux-Saga"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "4people",
+    "vacancyLink": "https://krasnodar.hh.ru/vacancy/51323667",
+    "missingKnowledge": [
+      "YouTrack",
+      "Pixi.js",
+      "Phaser"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "Сектор Бизнеса",
+    "vacancyLink": "https://krasnodar.hh.ru/vacancy/67983936",
+    "missingKnowledge": [
+      "Опыт составления технической документации"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "Сеть аптек Апрель",
+    "vacancyLink": "https://krasnodar.hh.ru/vacancy/66535223",
+    "missingKnowledge": [
+      "опыт работы с JS-фреймворком Vue",
+      "Webpack",
+      "Gulp"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "ООО Джой Дев",
+    "vacancyLink": "https://krasnodar.hh.ru/vacancy/67854208",
+    "missingKnowledge": [
+      "Apollo",
+      "Agile",
+      "Mobx",
+      "GraphQL",
+      "Ant Design",
+      "Material UI"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "ПАО Ростелеком",
+    "vacancyLink": "https://krasnodar.hh.ru/vacancy/67866456",
+    "missingKnowledge": [
+      "Webpack",
+      "Docker",
+      "Умение писать Unit-тесты",
+      "ООП"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "NUTS digital-agency",
+    "vacancyLink": "https://krasnodar.hh.ru/vacancy/67550623",
+    "missingKnowledge": [
+      "jQuery",
+      "UiKIT",
+      "Знание методологии БЭМ",
+      "Webpack"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "КЛЮЧАВТО",
+    "vacancyLink": "https://krasnodar.hh.ru/vacancy/67001322",
+    "missingKnowledge": [
+      "SQL (MS SQL, PostgreSQL)",
+      "Понимание архитектуры, внутреннего устройства платформы Creatio"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "RedLab",
+    "vacancyLink": "https://krasnodar.hh.ru/vacancy/67303305",
+    "missingKnowledge": [
+      "Webpack",
+      "Gulp"
+     ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "ООО Домейн",
+    "vacancyLink": "https://krasnodar.hh.ru/vacancy/66849265",
+    "missingKnowledge": [
+      "Опыт ведения документации по проектам"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "Digital Hub",
+    "vacancyLink": "https://gorodrabot.ru/vacancy/645691836/frontend_razrabotchik_react_krasnodar",
+    "missingKnowledge": [
+      "Webpack"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "MST",
+    "vacancyLink": "https://gorodrabot.ru/vacancy/636545434/frontend_razrabotchik_react_typescript_krasnodar",
+    "missingKnowledge": [
+      "MobX",
+      "Docker"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "RedLab",
+    "vacancyLink": "https://gorodrabot.ru/vacancy/641493076/razrabotchik_frontend_reactangular_udalenno_krasnodar",
+    "missingKnowledge": [
+      "Angular",
+      "Gulp",
+      "Webpack"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "Flashphoner",
+    "vacancyLink": "https://career.habr.com/vacancies/1000107493",
+    "missingKnowledge": [
+      "Material-UI"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "ИЦ «Ай-Теко»",
+    "vacancyLink": "https://career.habr.com/vacancies/1000106688",
+    "missingKnowledge": [
+      "SQL",
+      "Jira",
+      "Jenkins",
+      "D3.js"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "Desiign",
+    "vacancyLink": "https://gorodrabot.ru/vacancy/641645511/frontend_razrabotchik_krasnodar",
+    "missingKnowledge": [
+      "PHP",
+      "GraphQL",
+      "Gsap",
+      "Canvas", 
+      "WebGl"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "НЛМК",
+    "vacancyLink": "https://career.habr.com/vacancies/1000107450",
+    "missingKnowledge": [
+      "Опыт написания Unit-тестов",
+      "GraphQL",
+      "Webpack"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "Mauer Ventures",
+    "vacancyLink": "https://career.habr.com/vacancies/1000107734",
+    "missingKnowledge": [
+      "Vercel",
+      "Scrum"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "Portlab",
+    "vacancyLink": "https://career.habr.com/vacancies/1000100973",
+    "missingKnowledge": [
+      "Elastic UI",
+      "Vite"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "VK",
+    "vacancyLink": "https://career.habr.com/vacancies/1000103736",
+    "missingKnowledge": [],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "ГК «Инструмент»",
+    "vacancyLink": "https://career.habr.com/vacancies/1000107278",
+    "missingKnowledge": [
+      "Webpack",
+      "Next.js"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  },
+  {
+    "company": "Genue",
+    "vacancyLink": "https://career.habr.com/vacancies/1000085224",
+    "missingKnowledge": [
+      "GraphQL",
+      "Next.js"
+    ],
+    "status": false,
+    "lastUpdate": "28 Jul 2022"
+  }
+]
