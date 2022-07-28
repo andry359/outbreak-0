@@ -1,0 +1,191 @@
+[
+  {
+    "company": "ИП Богач Евгений Александрович",
+    "vacancyLink": "https://hh.ru/vacancy/68155211?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=frontend",
+    "missingKnowledge": [],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "ITPO group",
+    "vacancyLink": "https://hh.ru/vacancy/67327557?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=frontend",
+    "missingKnowledge": ["Redux Saga"],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "USETECH",
+    "vacancyLink": "https://hh.ru/vacancy/47097339?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=frontend",
+    "missingKnowledge": [],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "DDPlanet",
+    "vacancyLink": "https://hh.ru/vacancy/66636174?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=frontend",
+    "missingKnowledge": [],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "ООО Аспект",
+    "vacancyLink": "https://hh.ru/vacancy/43284096?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=frontend",
+    "missingKnowledge": ["MobX"],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "Start Mobile",
+    "vacancyLink": "https://hh.ru/vacancy/55302941?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=frontend",
+    "missingKnowledge": ["React Native"],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "ИП Андреев Артём Александрович",
+    "vacancyLink": "https://hh.ru/vacancy/68067343?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=frontend",
+    "missingKnowledge": [],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "ООО Инфометеос",
+    "vacancyLink": "https://hh.ru/vacancy/67503557?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=frontend",
+    "missingKnowledge": ["JIRA"],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "Филиал компании Ол Фюнерал Сервисиз Москва",
+    "vacancyLink": "https://hh.ru/vacancy/67533387?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=frontend",
+    "missingKnowledge": ["Опыт создания автоматических тестов"],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "AppEvent",
+    "vacancyLink": "https://hh.ru/vacancy/67304300?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend",
+    "missingKnowledge": [],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "ООО АйТи Мегастар",
+    "vacancyLink": "https://hh.ru/vacancy/67453094?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend",
+    "missingKnowledge": [],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "Сектор Бизнеса",
+    "vacancyLink": "https://hh.ru/vacancy/67983936?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend",
+    "missingKnowledge": [],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "SMENA",
+    "vacancyLink": "https://hh.ru/vacancy/67552911?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend",
+    "missingKnowledge": ["AntDesign", "GraphQL"],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "Finbridge",
+    "vacancyLink": "https://hh.ru/vacancy/67400884?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend",
+    "missingKnowledge": ["Next.js", "unit-тесты"],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "ООО Диденок Тим",
+    "vacancyLink": "https://hh.ru/vacancy/67770094?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=Frontend",
+    "missingKnowledge": [],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "АО МаксимаТелеком",
+    "vacancyLink": "https://hh.ru/vacancy/68233277?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=react",
+    "missingKnowledge": [],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "ООО К-Скай",
+    "vacancyLink": "https://hh.ru/vacancy/67618630?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=react",
+    "missingKnowledge": [],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "ITooLabs",
+    "vacancyLink": "https://hh.ru/vacancy/67696081?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=react",
+    "missingKnowledge": [],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "Университет ИТМО",
+    "vacancyLink": "https://hh.ru/vacancy/68151357?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=react",
+    "missingKnowledge": ["bootstrap", "mobx"],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "АТОЛ, группа компаний",
+    "vacancyLink": "https://hh.ru/vacancy/68080363?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=react",
+    "missingKnowledge": [],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "ООО Инфометеос",
+    "vacancyLink": "https://hh.ru/vacancy/67503557?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=react",
+    "missingKnowledge": ["JIRA"],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "Selecty",
+    "vacancyLink": "https://hh.ru/vacancy/67714791?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=react",
+    "missingKnowledge": ["Storybook", "Jest", "Webpack"],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "РНКБ Банк (ПАО)",
+    "vacancyLink": "https://hh.ru/vacancy/66758483?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=react",
+    "missingKnowledge": ["React-Testing-Library", "Chakra UI"],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "Филиал компании Ол Фюнерал Сервисиз Москва",
+    "vacancyLink": "https://hh.ru/vacancy/67533387?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=react",
+    "missingKnowledge": [],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "АО МаксимаТелеком",
+    "vacancyLink": "https://hh.ru/vacancy/67416109?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=react",
+    "missingKnowledge": ["Webpack"],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "ООО Фабрика информационных технологий",
+    "vacancyLink": "https://hh.ru/vacancy/67450002?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=react",
+    "missingKnowledge": [],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  },
+  {
+    "company": "418 Digital Team",
+    "vacancyLink": "https://hh.ru/vacancy/67298377?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=react",
+    "missingKnowledge": [],
+    "status": null,
+    "lastUpdate": "27-07-2022"
+  }
+]

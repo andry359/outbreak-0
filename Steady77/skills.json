@@ -1,0 +1,34 @@
+[
+    {
+        "skill": "jira",
+        "estimation": 10
+    },
+    {
+        "skill": "redux-saga",
+        "estimation": 15
+    },
+    {
+        "skill": "mobx",
+        "estimation": 20
+    },
+    {
+        "skill": "nextjs",
+        "estimation": 30
+    },
+    {
+        "skill": "graphQL",
+        "estimation": 20
+    },
+    {
+        "skill": "styled-components",
+        "estimation": 5
+    },
+    {
+        "skill": "tailwindcss",
+        "estimation": 12
+    },
+    {
+        "skill": "AntDesign",
+        "estimation": 16
+    }
+]
