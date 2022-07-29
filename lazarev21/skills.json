@@ -1,0 +1,14 @@
+[
+    { "skill": "webpack", 
+    "estimation": 8 
+    }, 
+    { "skill": "saga", 
+    "estimation": 8 
+    },
+    { "skill": "styled component", 
+    "estimation": 8 
+    },
+    { "skill": "LESS", 
+    "estimation": 8 
+    }
+]

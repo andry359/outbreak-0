@@ -139,13 +139,13 @@
     },
     {"company": "amoCRM",
     "vacancyLink": "https://hh.ru/vacancy/67459509",
-    "missingKnowledge": "NodeJS, Webpack",
+    "missingKnowledge": "",
     "status": "not viewed",
     "lastUpdate": "29.07.2022"
     },
     {"company": "Сбер для экспертов",
     "vacancyLink": "https://hh.ru/vacancy/68267115",
-    "missingKnowledge": "NodeJS, Webpack",
+    "missingKnowledge": "",
     "status": "not viewed",
     "lastUpdate": "29.07.2022"
     }
